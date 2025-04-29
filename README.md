@@ -7,11 +7,9 @@ Welcome to my GitHub! I’m a dedicated and curious **Computer Science student**
 
 ### 🚀 Tech Stack & Tools
 
-| 💻 Languages     | 🌐 Frontend          | 🧠 ML & DS                         | 🛢️ Databases | ⚙️ Tools & CS Concepts               |
-|------------------|----------------------|-----------------------------------|---------------|--------------------------------------|
-| C, C++, Python   | HTML, CSS, JavaScript, React | Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib | SQL           | Git, GitHub, OOP, DBMS, OS, CN, DSA  |
-
-> 🌟 Currently exploring: **Neural Networks, Full Stack Development, and Real-World ML Applications**
+| 💻 Languages | 🌐 Frontend | 🧠 ML & DS | 🛢️ Databases | ⚙️ Tools & CS Concepts |
+|-------------|-------------|------------|----------------|------------------------|
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-2D8CB7?style=flat&logo=python&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br> ![OOP](https://img.shields.io/badge/OOPs-Concepts-informational) <br> ![DSA](https://img.shields.io/badge/DSA-Fundamentals-blue) <br> ![OS](https://img.shields.io/badge/OS-Theory-lightgrey) <br> ![DBMS](https://img.shields.io/badge/DBMS-Concepts-lightgreen) <br> ![CN](https://img.shields.io/badge/Computer%20Networks-Concepts-orange) |
 
 ---
 
@@ -35,7 +33,7 @@ Welcome to my GitHub! I’m a dedicated and curious **Computer Science student**
 
 - Solved **300+ problems** on [LeetCode](https://leetcode.com/ARYAN-GUPTA85/)
 - Consistently practicing algorithms and data structures  
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)  
 [![LeetCard](https://leetcard.jacoblin.cool/ARYAN-GUPTA85?ext=contest)](https://leetcode.com/ARYAN-GUPTA85/)
 
 ---
@@ -51,7 +49,7 @@ Welcome to my GitHub! I’m a dedicated and curious **Computer Science student**
 
 ### 📈 GitHub Stats
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanGupta825&show_icons=true&theme=radical)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanGupta825&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGupta825&layout=compact&theme=radical)
 
 ---
